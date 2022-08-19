@@ -1,3 +1,36 @@
 body {
   background: blanchedalmond;
+  margin:  1em 10em 1em 10em ;
+}
+
+
+.a{
+  background-color: rebeccapurple;
+width: 100%;
+height: 5em;
+margin: 10px 10px 10px 10px;
+}
+
+.b{
+  background-color: aqua;
+width: 100%;
+height: 20em;
+
+margin: 10px 10px 10px 10px;
+}
+
+.c{
+  background-color: blue;
+width: 8em;
+height: 20em;
+margin: 10px -10px 10px 10px;
+}
+
+
+#bc{
+  display: flex;
+}
+.container{
+  padding: 1em 1em 1em 1em;
+  display: contents;
 }

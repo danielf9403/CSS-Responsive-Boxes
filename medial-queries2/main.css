@@ -1,3 +1,65 @@
 body {
-  background: papayawhip;
+  background: rgb(189, 158, 108);
+  text-align: center;
+}
+
+.container{
+  margin: 5px 5px 5px 5px;
+
+}
+
+.a{
+  background-color: blue;
+  width: 390px;
+  height: 100px;
+  margin-bottom: 2px;
+}
+
+.b{
+  background-color: blueviolet;
+  width: 100%;
+  height: 300px;
+   ;
+}
+
+.c{
+  background-color: brown;
+  width: 90px;
+  height: 90px;
+  margin: 2px 2px 2px 2px;
+}
+
+.d{
+  background-color: rgb(3, 42, 42);
+  width: 90px;
+  height: 90px;
+  margin: 2px 2px 2px 2px;
+}
+
+.e{
+  background-color: chocolate;
+  width: 90px;
+  height: 90px; 
+  margin: 2px 2px 2px 2px;
+}
+
+.f{
+  background-color: rgb(29, 2, 137);
+  width: 100px;
+  height: 390px;
+ 
+}
+
+
+.squers{
+  display: flex;
+}
+
+.body {
+  margin-right: 5px ;
+}
+
+.wrapper{
+  display: flex;
+  width: 100%;
 }
